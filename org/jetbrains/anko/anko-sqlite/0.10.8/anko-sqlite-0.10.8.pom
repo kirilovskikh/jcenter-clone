@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jetbrains.anko</groupId>
-  <artifactId>anko</artifactId>
+  <artifactId>anko-sqlite</artifactId>
   <version>0.10.8</version>
   <packaging>aar</packaging>
   <name>anko</name>
@@ -44,37 +44,7 @@
     </dependency>
     <dependency>
       <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-coroutines</artifactId>
-      <version>0.10.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-sqlite</artifactId>
-      <version>0.10.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-sdk27</artifactId>
-      <version>0.10.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-sdk27-coroutines</artifactId>
-      <version>0.10.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-appcompat-v7</artifactId>
-      <version>0.10.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-appcompat-v7-coroutines</artifactId>
+      <artifactId>sqlite-base</artifactId>
       <version>0.10.8</version>
       <scope>compile</scope>
     </dependency>
