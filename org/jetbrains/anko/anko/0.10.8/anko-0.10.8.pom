@@ -42,43 +42,11 @@
       <version>0.10.8</version>
       <scope>compile</scope>
     </dependency>
-<!--     <dependency>
+    <dependency>
       <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-coroutines</artifactId>
+      <artifactId>anko-appcompat-v7</artifactId>
       <version>0.10.8</version>
       <scope>compile</scope>
     </dependency>
-  -->    
-<!--   <dependency>
-    <groupId>org.jetbrains.anko</groupId>
-    <artifactId>anko-sqlite</artifactId>
-    <version>0.10.8</version>
-    <scope>compile</scope>
-  </dependency> -->
-<!--     <dependency>
-      <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-sdk27</artifactId>
-      <version>0.10.8</version>
-      <scope>compile</scope>
-    </dependency>
-  -->    
-<!--   <dependency>
-    <groupId>org.jetbrains.anko</groupId>
-    <artifactId>anko-sdk27-coroutines</artifactId>
-    <version>0.10.8</version>
-    <scope>compile</scope>
-  </dependency> -->
-  <dependency>
-    <groupId>org.jetbrains.anko</groupId>
-    <artifactId>anko-appcompat-v7</artifactId>
-    <version>0.10.8</version>
-    <scope>compile</scope>
-  </dependency>
-<!--   <dependency>
-    <groupId>org.jetbrains.anko</groupId>
-    <artifactId>anko-appcompat-v7-coroutines</artifactId>
-    <version>0.10.8</version>
-    <scope>compile</scope>
-  </dependency> -->
-</dependencies>
+  </dependencies>
 </project>
